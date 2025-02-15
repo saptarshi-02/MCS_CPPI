@@ -21,4 +21,4 @@ The script uses ipywidgets to create an interactive dashboard that allows users 
 	•	y_max: Maximum value for the y-axis of the wealth plot to adjust zoom.
 
 
-
+*Note : Interactive Output not visible since ipywidgets is not supported on GitHub
